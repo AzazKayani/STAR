@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 this is third filee
+=======
+Third filrre created for GUI GIt
+
+now change to check pull in GUI GIT
+>>>>>>> b3d8d32829c5ec744021bce049f590959c0855bd
