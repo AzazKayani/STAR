@@ -1,3 +1,4 @@
 rebase command file
 
 GUI Commit
+gui rebase master
