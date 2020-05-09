@@ -1,3 +1,5 @@
 this is six file
 
 rebase commit demo
+
+gui rebase in 6
